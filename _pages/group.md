@@ -1,10 +1,10 @@
 ---
-permalink: /
+layout: archive
+permalink: /group/
 title: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+  - /group/
 ---
 
 Graduate Students
