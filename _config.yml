@@ -23,13 +23,13 @@ repository               : #"jhhe77/jhhe77.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "he jinhua"
+  name             : "HJH"
   pronouns         : # example: "she/her"  
-  bio              : "student of fdu"
+  bio              : "Fudan University"
   location         : "Shanghai, China"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jinhuahe23@m.fudan.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "jhhe77"
+  github           : #"jhhe77"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
