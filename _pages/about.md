@@ -14,14 +14,14 @@ Research Interests
 1. Research Interest3 
 
 Experience
-======
+------
 
 1. 2023-
 2. 2026 [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb)
 3. 2329
 
 Contact
-======
+------
 1. Email
 1. Office
 1. address
