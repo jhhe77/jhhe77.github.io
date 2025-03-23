@@ -9,16 +9,16 @@
 
 main:
   - title: "Publication"
-    url: /Publication.md/
+    url: /publication/
 
   - title: "Teaching"
-    url: /Teaching.md/    
+    url: /teaching/    
 
   - title: "Presentation"
-    url: /Presentation.md/    
+    url: /presentation/    
 
   - title: "Group"
-    url: /Group.md/
+    url: /group/
     
   # - title: "Portfolio"
   #   url: /portfolio/
