@@ -1,10 +1,8 @@
 ---
 layout: archive
-permalink: /tesching/
-title: ""
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
-redirect_from:
-  - /teaching.html/
 ---
 
 Office Hour
