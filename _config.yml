@@ -351,7 +351,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-footer:
-  links: false    # 禁用所有默认链接
-  copyright: false # 禁用版权声明
-  last_updated: false # 禁用更新时间
