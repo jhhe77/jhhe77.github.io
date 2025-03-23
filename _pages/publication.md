@@ -3,8 +3,6 @@ layout: archive
 permalink: /publication/
 title: ""
 author_profile: true
-redirect_from:
-  - /publication/
 ---
 
 Preprints
