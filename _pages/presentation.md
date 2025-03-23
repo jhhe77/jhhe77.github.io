@@ -3,8 +3,6 @@ layout: archive
 permalink: /presentation/
 title: ""
 author_profile: true
-redirect_from:
-  - /presentation/
 ---
 
 Upcoming Presentations
