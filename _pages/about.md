@@ -11,7 +11,10 @@ Research Interests
 ======
 1. Research Interest1
 1. Research Interest2
-1. Research Interest3 
+1. Research Interest3
+* Research Interest1
+* Research Interest2
+* Research Interest3
 
 Experience
 ------
